@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\android\studio_project\app\src\main\assets"/><source path="D:\android\studio_project\app\build\generated\assets\shaders\arm7\debug"/></dataSet><dataSet config="arm7"><source path="D:\android\studio_project\app\src\arm7\assets"/></dataSet><dataSet config="debug"><source path="D:\android\studio_project\app\src\debug\assets"/></dataSet><dataSet config="arm7Debug"><source path="D:\android\studio_project\app\src\arm7Debug\assets"/></dataSet></merger>

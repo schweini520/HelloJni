@@ -1,0 +1,15 @@
+Executable : D:\Users\Administrator\AppData\Local\Android\sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HD:\android\studio_project\app\src\main\jni
+-BD:\android\studio_project\app\.externalNativeBuild\cmake\mipsRelease\mips64
+-DANDROID_ABI=mips64
+-DANDROID_PLATFORM=android-21
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\android\studio_project\app\build\intermediates\cmake\mips\release\obj\mips64
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=D:\Users\Administrator\AppData\Local\Android\sdk\ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=D:\Users\Administrator\AppData\Local\Android\sdk\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=D:\Users\Administrator\AppData\Local\Android\sdk\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+-DANDROID_TOOLCHAIN=clang
+jvmArgs : 
+
